@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taskboard</string>
+    <string name="title_tasks">Your tasks</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="email_required">Email is required.</string>
+    <string name="password_required">Password is required.</string>
+    <string name="wrong_password">Wrong email or password.</string>
+
+    <string name="new_task">New task</string>
+    <string name="add_task">Add</string>
+    <string name="title_required">Enter a title.</string>
+    <string name="title_too_long">Titles can have at most 80 characters.</string>
+    <string name="summary">%1$d of %2$d done</string>
+</resources>
